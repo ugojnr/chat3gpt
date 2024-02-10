@@ -11,10 +11,11 @@ const Header = () => {
           Welcome to Social Insights Uncover Trends Analytics
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+          At Social Insights, we offer a cutting-edge platform that empowers
+          individuals and businesses to delve deep into the vast realms of
+          Twitter and Instagram data. Our intuitive and powerful analytics tools
+          enable you to extract valuable insights, track trends, and understand
+          audience sentiments like never before.
         </p>
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your Email" />
