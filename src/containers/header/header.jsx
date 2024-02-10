@@ -1,6 +1,6 @@
 import React from "react";
 import people from "../../assets/people.png";
-import ai from "../../assets/ai.png";
+import dashboard from "../../assets/Analytical_dashboard.png";
 import "./header.css";
 
 const Header = () => {
@@ -8,7 +8,7 @@ const Header = () => {
     <div className="gpt3__header section__padding" id="home">
       <div className="gpt3__header-content">
         <h1 className="gradient__text">
-          Let’s Build Something amazing with GPT-3 OpenAI
+          Welcome to Social Insights Uncover Trends Analytics
         </h1>
         <p>
           Yet bed any for travelling assistance indulgence unpleasing. Not
@@ -26,7 +26,7 @@ const Header = () => {
         </div>
       </div>
       <div className="gpt3__header-image">
-        <img src={ai} alt="ai" />
+        <img src={dashboard} alt="ai" />
       </div>
     </div>
   );
