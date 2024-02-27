@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import "./navbar.css";
-import logo from "../../assets/logo.svg";
+import logo from "../../assets/tesera.png";
 
 const Menu = () => (
   <>
