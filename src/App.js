@@ -1,8 +1,6 @@
 import React from "react";
 
 import {
-  Footer,
-  Blog,
   Possibility,
   Features,
   WhatGPT3,
