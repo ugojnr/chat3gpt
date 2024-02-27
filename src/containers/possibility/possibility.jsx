@@ -10,7 +10,7 @@ const Possibility = () => {
       </div>
       <div className="gpt3__Possibility-content">
         <h4>Request Early Access to Get Started</h4>
-        <h1 className="gradient-text">
+        <h1 className="gradient__text">
           The Possibilities are beyond Your Imagination
         </h1>
         <p>yet bed any for travelling assistance and support</p>
